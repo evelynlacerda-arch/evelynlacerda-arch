@@ -57,6 +57,6 @@
 
 <!-- Rodapé com o BB-8 -->
 <div align="center">
-  <img src="./bb8.gif" width="150" alt="BB-8 walking" />
+  <img src="./bb8.gif" width="300" alt="BB-8 walking" />
 </div>
 
