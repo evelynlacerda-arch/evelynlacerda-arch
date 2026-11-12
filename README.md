@@ -1,7 +1,8 @@
 
+
 <!-- Meteoros espaciais -->
-<div>
-  <img width="100%" src="./meteor-shower.gif" />
+<div align="center">
+  <img width="350" src="./meteor-shower.gif" />
 </div>
 
 <!-- R2-D2 em pixel art -->
